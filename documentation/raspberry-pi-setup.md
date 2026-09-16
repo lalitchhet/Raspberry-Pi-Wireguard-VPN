@@ -14,11 +14,11 @@ Raspberry Pi OS Lite 32-bit
 - Local administrative user created
 - Network connectivity configured
 
-  ### SSH Administration
-  SSH was used to administer the Raspberry Pi remotely.
-  The VPN configuration and client management were performed through the SSH session.
+### SSH Administration
+ SSH was used to administer the Raspberry Pi remotely.
+ The VPN configuration and client management were performed through the SSH session.
 
-  ### DNS
-  Cloudflare DNS was selected during the VPN configuration
+### DNS
+ Cloudflare DNS was selected during the VPN configuration
 
   
