@@ -8,8 +8,8 @@ The home router was configured with a port-forwarding rule for the WireGuard ser
 
 ```text
 Protocol: UDP
-External Port: 51820
-Internal Port: 51820
+External Port: 51824
+Internal Port: 51824
 Destination: Raspberry Pi WireGuard server
 ```
 
