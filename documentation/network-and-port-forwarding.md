@@ -13,16 +13,4 @@ Internal Port: 51820
 Destination: Raspberry Pi WireGuard server
 ```
 
-Remote Client
-     |
-     | UDP 51820
-     |
-Internet
-     |
-Home Router
-Port Forward
-     |
-Raspberry Pi
-WireGuard VPN
-     |
-Home Network
+Remote Client---------UDP 51820---------Internet---------Home Router||Port Forward---------Raspberry Pi||WireGuard VPN---------Home Network
