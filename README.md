@@ -9,6 +9,26 @@ The VPN server was built on a Raspberry Pi running Raspberry Pi OS Lite 32-bit.
 PiVPN was used to deploy and manage WireGuard clients.
 The completed setup allows authorized client devices to establish an encrypted VPN connection back to the home network.
 
+## Project Evidence
+
+The repository includes documentation and setup evidence covering:
+
+- Raspberry Pi VPN server setup
+- WireGuard/PiVPN configuration
+- Router port forwarding
+- iOS client provisioning
+- Windows client configuration
+- VPN troubleshooting
+- Configuration backup
+
+### Raspberry Pi VPN Server
+
+![Raspberry Pi VPN Setup](screenshots/raspberry-pi-setup.jpeg)
+
+### Router Port Forwarding
+
+![WireGuard Port Forwarding](screenshots/router-port-forwarding.jpeg)
+
 ## Objectives
 
 - Build a Raspberry Pi-based VPN server
